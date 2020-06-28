@@ -12,3 +12,5 @@ Jack Sparrow ist einer der Protagonisten aus Fluch der Karibik. Er ist Kapitaen 
 
 Jack Sparrow sage
 >Ayy, ich bin ein Pirat.
+
+<img src="https://www.ruhr24.de/bilder/2019/09/17/13142909/2092057575-5154581_109-12f9.jpg"/>
