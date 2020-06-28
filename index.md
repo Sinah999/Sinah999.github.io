@@ -9,3 +9,6 @@ Jack Sparrow ist einer der Protagonisten aus Fluch der Karibik. Er ist Kapitaen 
 * Black Pearl
 * Musik 
 * Schiffe 
+
+Jack Sparrow sage
+>Ayy, ich bin ein Pirat.
